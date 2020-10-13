@@ -1,2 +1,2 @@
 # Space-Invaders
-Space Invaders video game using PyGame API,
+Space Invaders video game using PyGame API
